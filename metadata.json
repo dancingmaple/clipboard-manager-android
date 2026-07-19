@@ -1,0 +1,6 @@
+{
+  "name": "Clipboard Manager",
+  "description": "Android clipboard manager to real-time sync, format, export and explore the clipboard history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
